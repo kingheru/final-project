@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Heru Olisemeka
 
 #### Your section leader's name
 
-TODO
+TBA
 
 #### Project title
 
-TODO
+Risk Reward by RuruVision
 
 ***
 
@@ -18,11 +18,11 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+Ive created a program that loads a window upon startup. The startup window has a custiom title screen with text that prompts the User to Click to Start, when the window screen is clicked the program transitions to anotherscreen. 
 
 #### What have you not done for your project yet?
 
-TODO
+
 
 #### What problems, if any, have you encountered?
 
