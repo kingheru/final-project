@@ -6,7 +6,7 @@ Heru Olisemeka
 
 #### Your section leader's name
 
-TBA
+Heru Olisemeka
 
 #### Project title
 
@@ -22,8 +22,8 @@ Ive created a program that loads a window upon startup. The startup window has a
 
 #### What have you not done for your project yet?
 
-
+I need to create a loop that asks for user inputs in regards to a business venture and then calculates the profit. I also need to create more background images to represent the different stages of the game.
 
 #### What problems, if any, have you encountered?
 
-TODO
+I have not encountered any problems besides staying organized and focused in creating the main game loop versus focusing background images and sounds.
